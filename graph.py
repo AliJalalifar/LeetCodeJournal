@@ -1,4 +1,4 @@
-class DirectedGraph:
+class DirectionalGraph:
 
     def __init__(self, edges):
         self.edges = edges
@@ -36,5 +36,5 @@ if __name__ == "__main__":
         ("Istanbul", "Tehran"),
         ("Tehran", "Istanbul")
     ]
-    routeGraph = DirectedGraph(routes)
+    routeGraph = DirectionalGraph(routes)
     routeGraph.get_path("Toronto", "Tehran")
