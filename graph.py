@@ -24,17 +24,40 @@ class DirectionalGraph:
 
         return paths
 
+    def dfs_recursion(self, source):
+        print(source)
+        if source not in self.dict_graph:
+            return
+        for neighbour in self.dict_graph[source]:
+            self.dfs_recursion(neighbour)
+
+    def dfs_iteration(self, source):
+        stack = [source]
+        while stack:
+            current = stack.pop()
+            print(current)
+            if current in self.dict_graph:
+                for neighbor in self.dict_graph[current]:
+                    stack.append(neighbor)
+
 
 if __name__ == "__main__":
 
+    # routes = [
+    #     ("Toronto", "Montreal"),
+    #     ("Montreal", "Dubai"),
+    #     ("Dubai", "Istanbul"),
+    #     ("Toronto", "Dubai"),
+    #     ("Toronto", "Istanbul"),
+    #     ("Istanbul", "Tehran")
+    # ]
     routes = [
-        ("Toronto", "Montreal"),
-        ("Montreal", "Dubai"),
-        ("Dubai", "Tehran"),
-        ("Toronto", "Dubai"),
-        ("Toronto", "Istanbul"),
-        ("Istanbul", "Tehran"),
-        ("Tehran", "Istanbul")
+        ("a", "b"),
+        ("a", "c"),
+        ("b", "d"),
+        ("d", "f"),
+        ("c", "e")
     ]
     routeGraph = DirectionalGraph(routes)
-    routeGraph.get_path("Toronto", "Tehran")
+    # print(routeGraph.dfs("Toronto"))
+    routeGraph.dfs_iteration("a")
