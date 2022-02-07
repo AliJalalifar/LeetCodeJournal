@@ -85,7 +85,7 @@ class Graph:
 
     def connected_components_count(self, graph):
         connected = set()
-        count = 0
+        count = 0   
         for src in graph:
             if src not in connected:
                 connected.add(src)
