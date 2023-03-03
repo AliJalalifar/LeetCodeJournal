@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 
-<response>
+
   <item>
     <title>Harry Potter and the Sorcerer's Stone 2001</title>
     <description>Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.</description>
@@ -9,4 +8,4 @@
       <media:thumbnail url="https://cdn.30nama.com/poster/305341-l_30NAMA.webp?1637060600" />
     </media:content>
   </item>
-</response>
+
