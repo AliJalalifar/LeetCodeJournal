@@ -1,11 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
-  <item>
-    <title>Harry Potter and the Sorcerer's Stone 2001</title>
-    <description>Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.</description>
-    <media:content url="https://eu.cdn.cloudam.cc/download/2/2/259897/716567/5341/66.234.54.183/1680413014/30ce7831cfa257ded08e13f894ca106ec00d1396e0/movies/h/Harry_Potter_and_the_Sorcerer_s_Stone_2001_EXTENDED_1080p_BrRip_YIFY_30NAMA.mp4">
-      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg" />
-    </media:content>
-  </item>
-
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Biztale Feed</title>
+    <link />
+    <description>This is AutoPlaylist for Biztale based on Roku-Sample Feed</description>
+    <pubDate>Fri, 25 March 2016 8:19am EST</pubDate>
+    <image>
+      <title>Biztale AutoPlay Feed</title>
+      <url>http://biztale.xyz/roku/images/splash_hd.png</url>
+    </image>
+	<item>
+      <title>MemoryTale : Robin Williams</title>
+      <link>http://media5000.dropshots.com/photos/1321530/20160511/071052.mp4</link>
+      <description>Preserving our Past and Future - In respect for those we loved and adorned I’ve decided to launch a new feature to sustain a legacy and to capture the essence for ages to experience. </description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="137" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media5000.dropshots.com/photos/1321530/20160511/071052.mp4">
+        <media:description>Preserving our Past and Future - In respect for those we loved and adorned I’ve decided to launch a new feature to sustain a legacy and to capture the essence for ages to experience. </media:description>
+        <media:keywords>episode 7, memorytale</media:keywords>
+		<media:releasedate>May 11, 2016</media:releasedate>
+        <media:thumbnail url="http://biztale.xyz/images/biztale/MemoryTale%20-%20Robin%20Williams.png" />
+        <media:title>MemoryTale : Robin Williams</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>LIMITED **Angriest Whopper and EXTRA LONG PHILLY CHEESEBURGER** http://www.bk.com</title>
+      <link>http://media4002.dropshots.com/photos/1246494/20151125/224333.mp4</link>
+      <description>Bring it @ BKC! We’re a business that’s 100% built on the energy and hunger. facebook.com/burgerking | twitter.com/BurgerKing</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="120" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media4002.dropshots.com/photos/1246494/20151125/224333.mp4">
+        <media:description>Join the Fan Kingdom! http://www.bk.com</media:description>
+        <media:keywords>episode 1, biztale</media:keywords>
+		<media:releasedate>Jan 1, 2012</media:releasedate>
+        <media:thumbnail url="http://hnet.16mb.com/images/biztale/bk_hd.png" />
+        <media:title>Burger King: Bring it @ BKC!</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>CSX: How Tommorow Moves</title>
+      <link>http://media4002.dropshots.com/photos/1246494/20151110/062327.mp4</link>
+      <description>csx.com|We don't just pass through our Communities, We Join Them!|facebook.com/OfficialCSX | twitter.com/CSX</description>
+      <pubDate>Thu, 21 May 2015 18:47:20 GMT</pubDate>
+      <guid isPermaLink="false">6c9d0951d6d74229afe4adf972b278dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="120" fileSize="9523612" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media4002.dropshots.com/photos/1246494/20151110/062327.mp4">
+        <media:description>csx.com|We don't just pass through our Communities, We Join Them! | facebook.com/OfficialCSX | twitter.com/CSX</media:description>
+        <media:keywords>episode 2, biztale</media:keywords>
+        <media:thumbnail url="http://hnet.16mb.com/images/biztale/csx-logo_hd.png" />
+        <media:title>CSX: How Tommorow Moves</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>GameStop: Power to the Players</title>
+      <link>http://media5002.dropshots.com/photos/1321530/20160309/085448.mp4</link>
+      <description>You have been to our stores and traded out games, but did you know there is more to what we are about? Learn more at Gamestop.com and join our reward program to earn more.</description>
+      <pubDate>Thu, 21 May 2015 18:45:58 GMT</pubDate>
+      <guid isPermaLink="false">7405a8c101ee4c9da312c426e6067044</guid>
+      <media:content channels="2" bitrate="1328.0" duration="219" fileSize="11678262" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media5002.dropshots.com/photos/1321530/20160309/085448.mp4">
+        <media:description>You have been to our stores and traded out games, but did you know there is more to what we are about? Learn more at Gamestop.com and join our reward program to earn more.</media:description>
+        <media:keywords>episode 3, biztale</media:keywords>
+        <media:thumbnail url="http://hnet.16mb.com/images/biztale/gamestop_hd.png" />
+        <media:title>GameStop: Power to the Players</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Sykes Enterprises: You were Referred by John Hilla in Sales and Support</title>
+      <link>http://media4000.dropshots.com/photos/1246494/20151014/231540.mp4</link>
+      <description>Discover how Sykes customer engagement solutions can help your business grow! -> Now hiring on Sykes.com, Learn more on facebook.com/sykeslakeland2</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="120" fileSize="10344255" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media4000.dropshots.com/photos/1246494/20151014/231540.mp4">
+        <media:description>An EOE with Expertise and Integrity. Discover how Sykes customer engagement solutions can help your business grow! Learn more on facebook.com/sykeslakeland2 | twitter.com/SYKESteam</media:description>
+        <media:keywords>episode 4, biztale</media:keywords>
+        <media:thumbnail url="http://hnet.16mb.com/images/biztale/sykes_hd.png" />
+        <media:title>Sykes: An EOE with Expertise and Integrity.</media:title>
+      </media:content>
+    </item>
+	<item>
+      <title>WordTale: A is for Apple</title>
+      <link>http://media5001.dropshots.com/photos/1321530/20160113/011650.mp4</link>
+      <description>WordTale: A is for Apple -- Email hnet@biztale.xyz for your WordTale creation. We always reference "A" is for Apple, but where did the Apple come from and how does it benefit us?</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="120" fileSize="10344255" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://media5001.dropshots.com/photos/1321530/20160113/011650.mp4">
+        <media:description>WordTale: A is for Apple -- Email hnet@biztale.xyz for your WordTale creation. We always reference "A" is for Apple, but where did the Apple come from and how does it benefit us?</media:description>
+        <media:keywords>episode 5, wordtale</media:keywords>
+        <media:thumbnail url="http://biztale.xyz/images/biztale/A%20is%20for%20Apple_hd.png" />
+        <media:title>WordTale: A is for Apple</media:title>
+      </media:content>
+    </item>
+	<item>
+      <title>Youtale: Dumpsterman - Discover old and new games, in Comments send Request</title>
+      <link>http://media5000.dropshots.com/photos/1321530/20160414/072252.mp4</link>
+      <description>Email hnet@biztale.xyz for your Youtale.</description>
+      <pubDate>Thu, 13 Aug 2015 17:48:22 GMT</pubDate>
+      <guid isPermaLink="false">5686748268874a57a4ba3debda1619dd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="130" fileSize="10344255" framerate="23.976" height="720" type="video/mp4" width="480" isDefault="true" url="http://media5000.dropshots.com/photos/1321530/20160414/072252.mp4">
+        <media:description>Youtale: A Moment in Gaming - Discover old and new games</media:description>
+        <media:keywords>episode 6, youtale</media:keywords>
+        <media:thumbnail url="http://biztale.xyz/images/biztale/dumpsterman.png" />
+        <media:title>Email hnet@biztale.xyz for your Youtale.</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
